@@ -19,7 +19,7 @@ To get started with this project, follow the steps below:
 
 1. **Clone the Repository**: 
     ```sh
-    git clone https://github.com/yourusername/supply-chain-qlik-insights.git
+    git clone https://github.com/yourusername/smart_internz--Data-Driven-Innovations-in-Supply-Chain-Management-with-Qlik-Insights.git
     ```
 
 2. **Install Dependencies**: Ensure you have QlikSense installed and properly configured. Additional dependencies may be required for advanced analytics.
